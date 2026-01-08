@@ -11,18 +11,7 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/uftsimge.png" alt="TryHackMe Badge" />
   </a>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyuubi0&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=fff&text_color=9f9f9f" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuubi0&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=9f9f9f" height="150" alt="langs" />
-</div>
-
-<br>
-
-<div align="center">
+  <br><br>
 
   <h3>Tech Stack</h3>
   
