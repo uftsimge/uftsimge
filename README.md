@@ -1,5 +1,6 @@
 # Kyuubi0-
 <html>
-<img src="https://tryhackme-badges.s3.amazonaws.com/uftsimge.png" alt="Your Image Badge" />
+<img src="<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2688398" style='border:none;'></iframe>
+" />
 
 </html>
