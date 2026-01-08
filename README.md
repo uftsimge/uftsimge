@@ -17,20 +17,22 @@
 
   <h3>Tech Stack</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,dart,python,matlab,unity,blender,kali,linux,git,github,vscode&perline=6&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cs,dart,python,matlab,unity,blender,kali,linux,git&perline=5&theme=dark" />
   </a>
 
   <br><br>
 
   <h3>Connect</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=artstation,linkedin,itchio&theme=dark" />
+  <a href="https://www.artstation.com/uftsimge">
+    <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/simge-temel/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://uftsimge.itch.io/">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>
 
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyuubi0&theme=radical&hide_border=true" alt="Streak" />
-  
   <br><br>
   
   <img src="https://komarev.com/ghpvc/?username=Kyuubi0&label=PROFILE+VIEWS&style=for-the-badge&color=BD00FF" alt="Profile Views" />
