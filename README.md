@@ -15,10 +15,10 @@
 
   <p align="center">
     <a href="https://github.com/Kyuubi0">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kyuubi0&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=fff&text_color=9f9f9f" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kyuubi0&show_icons=true&theme=transparent&hide_border=true&title_color=ff69b4&icon_color=fff&text_color=9f9f9f" alt="Stats" />
     </a>
     <a href="https://github.com/Kyuubi0">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuubi0&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=9f9f9f" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyuubi0&layout=compact&theme=transparent&hide_border=true&title_color=ff69b4&text_color=9f9f9f" alt="Langs" />
     </a>
   </p>
 
