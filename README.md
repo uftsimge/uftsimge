@@ -13,9 +13,6 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/uftsimge.png" alt="TryHackMe Badge" />
   </a>
  
-<h3>Website</h3>
-  <a src="https://kyuubi0.github.io">
-  </a>
   <br><br>
 
   <h3>Tech Stack</h3>
@@ -26,6 +23,9 @@
   <br><br>
 
   <h3>Connect</h3>
+  <a href="https://kyuubi0.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-05FFC5?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
   <a href="https://www.artstation.com/uftsimge">
     <img src="https://img.shields.io/badge/ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
