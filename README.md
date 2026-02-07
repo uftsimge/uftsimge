@@ -23,7 +23,7 @@
   <br><br>
 
   <h3>Connect</h3>
-  <a href="uftsimge.githubçio">
+  <a href="https://www.uftsimge.githubçio">
     <img src="https://img.shields.io/badge/Portfolio-05FFC5?style=for-the-badge&logo=google-chrome&logoColor=black" />
   </a>
   <a href="https://www.artstation.com/uftsimge">
